@@ -1,0 +1,41 @@
+* {margin: 0; padding: 0}
+
+a:focus {
+	outline: none;
+}
+
+body {
+	background: #000 url(marvin.jpg) no-repeat scroll top left;
+	color: #999;
+	padding: 190px 10px 0;
+	text-align: center;
+}
+
+select {
+	display: block;
+	margin: 0 auto 20px;
+}
+
+.bomb{
+	display: inline-block;
+	text-indent: -9000em;
+	background: url(mac-bomb.png) no-repeat scroll top left;
+	width: 60px; 
+	height: 60px;
+	margin: 0 10px 20px;
+}
+
+.inactive {
+opacity: .2;
+}
+
+@media only screen and (max-width: 320px) {
+	body {
+		padding-top: 30px;
+	}
+
+	.bomb {
+		display: block;
+		margin: 0 auto 20px;
+	}
+}

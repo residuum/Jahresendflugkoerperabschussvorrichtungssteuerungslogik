@@ -1,0 +1,13 @@
+Jahresendflugkörperabschussvorrichtungssteuerungslogik
+------------------------------------------------------
+For New Year's Eve 2012 some friends and me built a launch pad for
+rockets. We have used a Raspberry Pi for controlling the launching.
+
+The Raspberry Pi had a webinterface. On this website, we could launch
+rockets by clicking the right bomb button. The Raspberry Pi then 
+used a relay to power one of five cigarette lighters.
+
+More details will follow on http://ix.residuum.org/
+
+The circuit diagram is made with gSchem from gEDA 
+(http://geda-project.org/).

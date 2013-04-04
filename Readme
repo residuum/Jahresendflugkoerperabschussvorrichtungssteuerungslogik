@@ -7,7 +7,7 @@ The Raspberry Pi had a webinterface. On this website, we could launch
 rockets by clicking the right bomb button. The Raspberry Pi then 
 used a relay to power one of five cigarette lighters.
 
-More details will follow on http://ix.residuum.org/
+Details can be found on http://ix.residuum.org/hardware/rampe.html
 
 The circuit diagram is made with gSchem from gEDA 
 (http://geda-project.org/).
